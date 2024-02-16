@@ -1,0 +1,14 @@
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\bin\Debug\net6.0\ConAppAssignment2.exe
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\bin\Debug\net6.0\ConAppAssignment2.deps.json
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\bin\Debug\net6.0\ConAppAssignment2.runtimeconfig.json
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\bin\Debug\net6.0\ConAppAssignment2.dll
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\bin\Debug\net6.0\ConAppAssignment2.pdb
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ConAppAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ConAppAssignment2.AssemblyInfoInputs.cache
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ConAppAssignment2.AssemblyInfo.cs
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ConAppAssignment2.csproj.CoreCompileInputs.cache
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ConAppAssignment2.dll
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\refint\ConAppAssignment2.dll
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ConAppAssignment2.pdb
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ConAppAssignment2.genruntimeconfig.cache
+D:\Phase-4 Mphasis\Jenkins16Feb\ConAppAssignment2\ConAppAssignment2\obj\Debug\net6.0\ref\ConAppAssignment2.dll
